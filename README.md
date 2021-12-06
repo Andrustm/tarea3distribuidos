@@ -19,8 +19,8 @@
 docker-compose up --build
 ```
 
-Las rutas a ocupar:
-# /localhost:8080/crear_producto
+#Las rutas a ocupar:
+#### /localhost:8080/crear_producto
 Metodo para crear un producto, a continuacion se muestra como se ve:
 
 
@@ -38,7 +38,7 @@ Al ingresar lo anterior responde con el mensaje "redy", de que ya se ingreso en 
 }
 ```
 
-# /localhost:8080/obtener_producto/yeyoldo
+## /localhost:8080/obtener_producto/yeyoldo
 
 OJO: Alfinal de la ruta se pone que buscar, PARA ESTE CASO es yeyoldo
 
