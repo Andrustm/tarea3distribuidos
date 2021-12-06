@@ -14,7 +14,7 @@ git clone
 
 
 
-# Para poder ejecutrar el codido se ocupa el comando a continuacion, pero se destaca que hay que esperar un buen rato, con el fin de que ejecute los contenedores de forma correcta.Los logs dan informacion de que como va la cosa.
+## Para poder ejecutrar el codido se ocupa el comando a continuacion, pero se destaca que hay que esperar un buen rato, con el fin de que ejecute los contenedores de forma correcta.Los logs dan informacion de que como va la cosa.
 
 
 ```
