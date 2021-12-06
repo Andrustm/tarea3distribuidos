@@ -56,7 +56,5 @@ Metodo para buscar un producto, a continuacion se muestra como se ve:
     "nombre": "yeyoldo",
     "precio": 45
   }
-  
-  
 ]
 ```
